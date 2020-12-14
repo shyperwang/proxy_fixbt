@@ -1,4 +1,5 @@
 该脚本主要是在mack-a的七合一脚本上进行优化，以便适合在安装BT面板的系统上进行安装
+
 脚本的详细信息，请参照mack-a的原项目https://github.com/mack-a/v2ray-agent
 
 # v2ray-agent
